@@ -1,9 +1,9 @@
-Fabian Wilde, University of Greifswald
+Felix Becker, University of Greifswald
 
 Introduction to Python for People with Programming Experience
 -------------------------------------------------------------
 
-This two day seminar was held at the university of Greifswald. The course materials can be used for independent self-study.
+This four day seminar is held at the university of Greifswald. The course materials can be used for independent self-study.
 
 ## Preparations
 

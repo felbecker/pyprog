@@ -47,7 +47,7 @@ You should see then a **Launcher-Tab** where you can choose to open a new **Pyth
     
 ```
 %%bash
-git clone https://github.com/fwilde/pyprog
+git clone https://github.com/felbecker/pyprog
 ```
 
 into a cell of a new notebook and then execute the cell with **CTRL + Enter**.
@@ -55,7 +55,7 @@ into a cell of a new notebook and then execute the cell with **CTRL + Enter**.
 **If you're using a locally installed version of Anaconda**, simply go to an arbitrary directory and clone the github repository with the course materials using the following command in a terminal:    
    
 ```
-git clone https://github.com/fwilde/pyprog
+git clone https://github.com/felbecker/pyprog
 ```
     
 Then simply open one of the Jupyter notebooks. **Have fun !**
